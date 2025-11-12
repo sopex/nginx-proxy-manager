@@ -15,7 +15,7 @@ import settingsRoutes from "./settings.js";
 import tokensRoutes from "./tokens.js";
 import usersRoutes from "./users.js";
 import versionRoutes from "./version.js";
-	
+
 const router = express.Router({
 	caseSensitive: true,
 	strict: true,
